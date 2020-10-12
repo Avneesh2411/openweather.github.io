@@ -1,1 +1,1 @@
-# http://openweather.github.io
+# https://openweather.github.io
